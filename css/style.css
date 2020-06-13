@@ -1,0 +1,181 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700|Spectral+SC:400,500,700');
+body {
+    
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Spectral SC', serif;
+    font-size: 35px;
+}
+img{
+    max-width: 100%;
+}
+.logo img{
+    padding: 0 0 4px 0;
+}
+.main-container {
+    width: 1050px;
+    margin: 0 auto;
+}
+.row {
+    margin: 0 -15px;
+}
+.col-6 {
+    width: 50%;
+    float: left;
+    padding: 0 15px;
+}
+.col-4 {
+    width: 33.33%;
+    float: left;
+    padding: 0 15px;
+}
+.col-3 {
+    width: 25%;
+    float: left;
+    padding: 0 15px;
+}
+.col-9 {
+    width: 75%;
+    float: left;
+    padding: 0 15px;
+}
+.cb {
+    color: #008aff;
+    margin-top: 20px;
+}
+.fix {
+    overflow: hidden;
+}
+.text-right {
+    text-align: right;
+}
+.text-left {
+    text-align: left;
+}
+.text-center {
+    text-align: center;
+}
+.box {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 30px;
+}
+.main-menu {
+	background-color: #fff;
+	padding: 23px 0 5px;
+	margin-bottom: 20px;
+    border-bottom: 2px solid #e5e7e9;
+}
+
+.cb{
+    color: #008aff;
+    font-size: 35px;
+}
+
+.menu ul {
+	list-style: none;
+    padding: 8px 0;
+}
+.menu ul li {
+	display: inline-block;
+	margin-left: 15px;
+}
+.menu ul li a {
+	color: #333;
+	text-decoration: none;
+	
+	
+	padding: 7px 15px;
+}
+.slider h1{
+    padding-top: 35px;
+    margin-bottom: -18px;
+}
+.slider p{
+    
+    padding: 20px 20px;
+    color: #979a9a;
+}
+.slider-img img{
+    max-width: 100%;
+    background-size: cover;
+    background-position: center;
+    
+    height: 500px;
+    margin-bottom: 100px;
+}
+.sh-1{
+    color: #f25767;
+    margin-bottom: 15px;
+}
+.sh-1 h1{
+    
+    
+}
+.sp{
+    color: #979a9a;
+    line-height: 1.6;
+    margin-bottom: 40px;
+}
+.sp-2{
+   color: #061f51;
+}
+.single-gallery-item img {
+    width: 100%;
+    height: auto;
+    margin-top:40px;
+    
+    padding: 0 36px;
+
+    background-size: cover;
+    background-position: center;
+    
+    
+    margin-bottom: 50px;
+}
+
+.single-gallery-item h3 {
+    color: #333;
+    padding: 10px 23px;
+    font-size: 20px;
+}
+.single-gallery-item p {
+    color: #979a9a;
+    padding: 10px 23px;
+    padding-bottom: 10px
+    font-size: 14px;
+    line-height: 1.6;
+}
+.single-gallery-item {
+    background-color: #fcf3f7;
+    border-radius: 10px;
+    overflow: hidden;
+    height: auto;
+    padding-bottom: 10px;
+}
+.tiitle h2 {
+	text-align: center;
+	margin-bottom: 50px;
+	font-size: 45px;
+	text-transform: uppercase;
+	color: #fff;
+}
+.bc-1{
+    background-color: #fdebed;
+}
+.bc-2{
+    background-color: #ebf9f4;
+}
+.bc-3{
+    background-color: #fff7e8;
+}
